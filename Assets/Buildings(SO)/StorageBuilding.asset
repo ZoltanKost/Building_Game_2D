@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3850af663d261ee40a25900976ca2771, type: 3}
+  m_Name: StorageBuilding
+  m_EditorClassIdentifier: 
+  tile: {fileID: 11400000, guid: a12a4999d9446624ba625ad391972b84, type: 2}
+  resources:
+  - {fileID: 11400000, guid: 02057d0de2b784344b0505d5c7818389, type: 2}
+  - {fileID: 11400000, guid: fbd4c444163eb0d41a5375505733de41, type: 2}
+  - {fileID: 11400000, guid: 5e083d12f96ab634cacc2ea47908dc79, type: 2}
+  - {fileID: 11400000, guid: f0e246d4589edda4188b0587d3db0e30, type: 2}

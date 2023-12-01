@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec22d9b7a0a98644db8458d0fa26a78c, type: 3}
+  m_Name: BlueHouse
+  m_EditorClassIdentifier: 
+  consumingResources:
+  - {fileID: 11400000, guid: 02057d0de2b784344b0505d5c7818389, type: 2}
+  consumingNumbers: 01000000
+  consumingResourcesNumber: 1
+  tiles:
+  - {fileID: 11400000, guid: 840c183a6f80cfe43a29646262d25bbf, type: 2}
+  - {fileID: 11400000, guid: 6b9ce605f13eb9c46ac5f34813e13c75, type: 2}
+  - {fileID: 11400000, guid: 1699208db908c3147a758e69b67bd5c0, type: 2}
+  - {fileID: 11400000, guid: b926f8af74a483e4f82d5fa263fb62ac, type: 2}
+  productionTime: 10
+  producing: {fileID: 11400000, guid: fbd4c444163eb0d41a5375505733de41, type: 2}
+  producingNumber: 5
+  capacity: 1
